@@ -1,6 +1,6 @@
-# 📊 50-Day Data Science Roadmap
+# 📊 50-Day Data Science
 
-This roadmap guides you through a comprehensive 50-day plan to master Data Science, starting from Python basics to Machine Learning and Neural Networks. It is based on key resources like:
+A structured 50-day journey to master Data Science – from Python basics to Machine Learning and Neural Networks.
 
 - [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/python-basics)
 - *Play with Graphs* by Amit Agrawal
@@ -115,5 +115,3 @@ This roadmap guides you through a comprehensive 50-day plan to master Data Scien
 - *Hands-On Machine Learning* – Aurélien Géron
 
 ---
-
-> 💡 Stay consistent and code every day! Track your progress and build projects as you go.
