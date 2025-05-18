@@ -10,3 +10,4 @@
 
 # Ignore files in a specific directory (e.g., videos/)
 videos/
+__pycache__/
